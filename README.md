@@ -8,4 +8,4 @@ A buddy can do the following activities:
 
 Important: 
 The purpose of this project was just to work with graphs and data structure analysis, so I just created the class and not an actual running app.
-The test folder is there to compare the performance of a SortedArrayList and a TreeSet, that's how I decided which data structure to use.
+The test folder is there to compare the performance of a SortedArrayList and a TreeSet, that's how the decision of which data structure to use was made.
